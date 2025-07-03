@@ -2,13 +2,13 @@ Smart Agri Platform
 
 Empowering Farmers with Data-Driven Intelligence
 
-Project Overview
+***Project Overview
 
 The Smart Agri Platform is a comprehensive, full-stack web application designed to revolutionize traditional farming practices by providing farmers with data-driven insights and predictive analytics. Our goal is to enhance crop yields, optimize resource utilization (especially water), predict market prices, and facilitate fair pricing, ultimately improving the livelihoods of farmers.
 
 Leveraging Machine Learning models and intelligent systems, this platform assists farmers with crucial decision-making across various aspects of agriculture, from initial crop selection to post-harvest strategies.
 
-Key Features
+***Key Features
 The SmartAgriPlatform offers a suite of functionalities to support farmers:
 
 Crop Selection & Recommendation: Provides intelligent recommendations for suitable crops based on soil type, local climate data, and historical yield performance.
