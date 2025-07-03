@@ -1,5 +1,6 @@
-SmartAgriPlatform
+Smart Agri Platform
 Empowering Farmers with Data-Driven Intelligence
+
 Project Overview
 The SmartAgriPlatform is a comprehensive, full-stack web application designed to revolutionize traditional farming practices by providing farmers with data-driven insights and predictive analytics. Our goal is to enhance crop yields, optimize resource utilization (especially water), predict market prices, and facilitate fair pricing, ultimately improving the livelihoods of farmers.
 
